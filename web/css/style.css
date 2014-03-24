@@ -1,0 +1,17 @@
+
+.go-board {
+    stroke-width: 1px;
+    fill: navajowhite;
+    stroke: bisque;
+}
+
+.go-line {
+    stroke-width: 1px;
+    stroke: black;
+    stroke-linecap: square;
+}
+
+.go-star {
+    fill: black;
+}
+
